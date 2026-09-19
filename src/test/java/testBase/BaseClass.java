@@ -22,6 +22,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 
 public class BaseClass {
@@ -30,6 +31,7 @@ public class BaseClass {
 	public Properties p;
 
 	@BeforeClass(groups = { "Sanity", "Master", "Regression" })
+
 	@Parameters({ "os", "browser" })
 	public void setup(String os, String browser) throws IOException {
 		// Loading config.properties file

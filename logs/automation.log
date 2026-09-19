@@ -1,23 +1,40 @@
-08:58:58.137 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MYAccount Link...
-08:59:15.359 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link...
-08:59:15.362 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing custoer derails...
-08:59:18.338 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messages after customer details...
-08:59:18.401 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest *****
-08:59:22.188 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest *****
-08:59:22.335 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount Link...
-08:59:22.926 [main] INFO  testCases.TC002_LoginTest - Clicked on Login Link...
-08:59:22.929 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
-08:59:24.602 [main] INFO  testCases.TC002_LoginTest - Validating expected messages after customer login...
-08:59:24.668 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest *****
-11:12:24.099 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest *****
-11:12:24.375 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MYAccount Link...
-11:12:25.370 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link...
-11:12:25.386 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing custoer derails...
-11:12:28.440 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messages after customer details...
-11:12:28.525 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest *****
-11:12:33.815 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest *****
-11:12:34.019 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount Link...
-11:12:34.525 [main] INFO  testCases.TC002_LoginTest - Clicked on Login Link...
-11:12:34.540 [main] INFO  testCases.TC002_LoginTest - Providing customer details...
-11:12:36.392 [main] INFO  testCases.TC002_LoginTest - Validating expected messages after customer login...
-11:12:36.478 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest *****
+17:55:34.244 [main] INFO  testCases.TC004_Search - Searching the product
+17:55:34.460 [main] INFO  testCases.TC004_Search - Clicking search button
+17:55:40.112 [main] INFO  testCases.TC004_Search - Validate the Search page exitst
+17:55:40.167 [main] INFO  testCases.TC004_Search - Validate the Results available
+17:55:40.269 [main] INFO  testCases.TC004_Search - Searching via Search page object
+17:55:40.412 [main] INFO  testCases.TC004_Search - Clicking search button
+17:55:51.016 [main] INFO  testCases.TC004_Search - Validate the Results available
+17:55:51.091 [main] INFO  testCases.TC004_Search - **** Finished TC004_SearchTest *****
+18:03:58.538 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\joyse\AppData\Local\JetBrains\IdeaIC2020.3\temp-testng-customsuite.xml
+
+18:05:46.120 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\joyse\IdeaProjects\opencartIdea\master.xml
+
+18:05:50.259 [main] INFO  testCases.TC004_Search - **** Starting TC004_SearchTest *****
+18:05:50.298 [main] INFO  testCases.TC004_Search - Searching the product
+18:05:50.531 [main] INFO  testCases.TC004_Search - Clicking search button
+18:05:56.421 [main] INFO  testCases.TC004_Search - Validate the Search page exitst
+18:05:56.468 [main] INFO  testCases.TC004_Search - Validate the Results available
+18:05:56.564 [main] INFO  testCases.TC004_Search - Searching via Search page object
+18:05:56.699 [main] INFO  testCases.TC004_Search - Clicking search button
+18:06:07.332 [main] INFO  testCases.TC004_Search - Validate the Results available
+18:06:07.411 [main] INFO  testCases.TC004_Search - Searching via Negative Search page object
+18:06:07.569 [main] INFO  testCases.TC004_Search - Clicking search button
+18:06:18.001 [main] INFO  testCases.TC004_Search - Validate the Results not available
+18:13:43.311 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\joyse\IdeaProjects\opencartIdea\master.xml
+
+18:13:47.631 [main] INFO  testCases.TC004_Search - **** Starting TC004_SearchTest *****
+18:13:47.680 [main] INFO  testCases.TC004_Search - Searching the product
+18:13:47.907 [main] INFO  testCases.TC004_Search - Clicking search button
+18:13:48.501 [main] INFO  testCases.TC004_Search - Validate the Search page exitst
+18:13:48.582 [main] INFO  testCases.TC004_Search - Validate the Results available
+18:13:48.676 [main] INFO  testCases.TC004_Search - Searching via Search page object
+18:13:48.788 [main] INFO  testCases.TC004_Search - Clicking search button
+18:13:49.379 [main] INFO  testCases.TC004_Search - Validate the Results available
+18:13:49.458 [main] INFO  testCases.TC004_Search - Searching via Negative Search page object
+18:13:49.607 [main] INFO  testCases.TC004_Search - Clicking search button
+18:13:49.996 [main] INFO  testCases.TC004_Search - Validate the Results not available
+18:13:50.032 [main] INFO  testCases.TC004_Search - **** Finished TC004_SearchTest *****

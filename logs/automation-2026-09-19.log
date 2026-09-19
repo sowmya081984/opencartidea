@@ -1,0 +1,72 @@
+16:33:43.166 [main] INFO  testCases.TC004_Search - Validate the Results available
+17:35:29.101 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\joyse\IdeaProjects\opencartIdea\master.xml
+
+17:35:34.658 [main] INFO  testCases.TC004_Search - **** Starting TC004_SearchTest *****
+17:35:34.683 [main] INFO  testCases.TC004_Search - Searching the product
+17:35:34.813 [main] INFO  testCases.TC004_Search - Clicking search button
+17:35:40.445 [main] INFO  testCases.TC004_Search - Validate the Search page exitst
+17:35:40.511 [main] INFO  testCases.TC004_Search - Validate the Results available
+17:40:54.055 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\joyse\IdeaProjects\opencartIdea\master.xml
+
+17:40:58.146 [main] INFO  testCases.TC004_Search - **** Starting TC004_SearchTest *****
+17:40:58.190 [main] INFO  testCases.TC004_Search - Searching the product
+17:40:58.319 [main] INFO  testCases.TC004_Search - Clicking search button
+17:41:03.963 [main] INFO  testCases.TC004_Search - Validate the Search page exitst
+17:41:04.017 [main] INFO  testCases.TC004_Search - Validate the Results available
+17:41:04.090 [main] INFO  testCases.TC004_Search - Searching via Search page object
+17:41:04.155 [main] INFO  testCases.TC004_Search - Clicking search button
+17:41:14.696 [main] INFO  testCases.TC004_Search - Validate the Results available
+17:43:01.210 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\joyse\IdeaProjects\opencartIdea\master.xml
+
+17:43:04.935 [main] INFO  testCases.TC004_Search - **** Starting TC004_SearchTest *****
+17:43:04.980 [main] INFO  testCases.TC004_Search - Searching the product
+17:43:05.194 [main] INFO  testCases.TC004_Search - Clicking search button
+17:43:10.846 [main] INFO  testCases.TC004_Search - Validate the Search page exitst
+17:43:10.912 [main] INFO  testCases.TC004_Search - Validate the Results available
+17:43:11.038 [main] INFO  testCases.TC004_Search - Searching via Search page object
+17:43:11.173 [main] INFO  testCases.TC004_Search - Clicking search button
+17:43:21.772 [main] INFO  testCases.TC004_Search - Validate the Results available
+17:43:21.819 [main] INFO  testCases.TC004_Search - **** Finished TC004_SearchTest *****
+17:45:16.762 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\joyse\IdeaProjects\opencartIdea\master.xml
+
+17:45:20.657 [main] INFO  testCases.TC004_Search - **** Starting TC004_SearchTest *****
+17:45:20.701 [main] INFO  testCases.TC004_Search - Searching the product
+17:45:20.896 [main] INFO  testCases.TC004_Search - Clicking search button
+17:45:26.495 [main] INFO  testCases.TC004_Search - Validate the Search page exitst
+17:45:26.558 [main] INFO  testCases.TC004_Search - Validate the Results available
+17:45:26.628 [main] INFO  testCases.TC004_Search - Searching via Search page object
+17:45:26.703 [main] INFO  testCases.TC004_Search - Clicking search button
+17:45:37.283 [main] INFO  testCases.TC004_Search - Validate the Results available
+17:45:37.335 [main] INFO  testCases.TC004_Search - **** Finished TC004_SearchTest *****
+17:48:42.265 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\joyse\IdeaProjects\opencartIdea\master.xml
+
+17:48:46.276 [main] INFO  testCases.TC004_Search - **** Starting TC004_SearchTest *****
+17:48:46.337 [main] INFO  testCases.TC004_Search - Searching the product
+17:48:46.508 [main] INFO  testCases.TC004_Search - Clicking search button
+17:48:52.162 [main] INFO  testCases.TC004_Search - Validate the Search page exitst
+17:48:52.251 [main] INFO  testCases.TC004_Search - Validate the Results available
+17:48:52.310 [main] INFO  testCases.TC004_Search - Searching via Search page object
+17:48:52.384 [main] INFO  testCases.TC004_Search - Clicking search button
+17:49:02.939 [main] INFO  testCases.TC004_Search - Validate the Results available
+17:49:02.970 [main] INFO  testCases.TC004_Search - **** Finished TC004_SearchTest *****
+17:51:29.176 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\joyse\IdeaProjects\opencartIdea\master.xml
+
+17:51:33.094 [main] INFO  testCases.TC004_Search - **** Starting TC004_SearchTest *****
+17:51:33.130 [main] INFO  testCases.TC004_Search - Searching the product
+17:51:33.316 [main] INFO  testCases.TC004_Search - Clicking search button
+17:51:38.913 [main] INFO  testCases.TC004_Search - Validate the Search page exitst
+17:51:38.936 [main] INFO  testCases.TC004_Search - Validate the Results available
+17:51:38.983 [main] INFO  testCases.TC004_Search - Searching via Search page object
+17:51:39.057 [main] INFO  testCases.TC004_Search - Clicking search button
+17:51:49.719 [main] INFO  testCases.TC004_Search - Validate the Results available
+17:51:49.783 [main] INFO  testCases.TC004_Search - **** Finished TC004_SearchTest *****
+17:55:30.379 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\joyse\IdeaProjects\opencartIdea\master.xml
+
+17:55:34.199 [main] INFO  testCases.TC004_Search - **** Starting TC004_SearchTest *****
